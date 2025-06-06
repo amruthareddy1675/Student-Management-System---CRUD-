@@ -17,11 +17,3 @@ This is a web-based **Student Management System** designed to allow users to man
 - **Update Student**: Allows modification of existing student records.
 - **Delete Student**: Enables deletion of student records from the system.
 
-## Contributing
--We welcome contributions! To contribute to this project, please follow these steps:
-
-- Fork the repository
-- Create a new branch (git checkout -b feature-branch)
-- Make your changes and commit them (git commit -am 'Add new feature')
-- Push your changes to your fork (git push origin feature-branch)
-- Open a pull request with a description of your changes
